@@ -16,19 +16,19 @@ authors:
     given-names: Panagiotis
   - family-names: Papoutsis
     given-names: Ioannis
-version: "1.0.2"
-date-released: "2026-06-13"
+version: "1.0.0"
+date-released: "2026-06-29"
 license: MIT
-repository-code: "https://github.com/nlavdaki/solar-twin"
-url: "https://github.com/nlavdaki/solar-twin"
-doi: "10.5281/zenodo.20630337"   # Zenodo concept DOI (resolves to the latest version)
+repository-code: "https://github.com/nlavdaki/Isaac_Sim_Extractor_Calibrator_Package"
+url: "https://github.com/nlavdaki/Isaac_Sim_Extractor_Calibrator_Package"
+doi: "10.5281/zenodo.21040702"   # Zenodo concept DOI (resolves to the latest version)
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.20630337"
+    value: "10.5281/zenodo.21040702"
     description: "Concept DOI, always resolves to the latest version"
-# Each GitHub release mints a version DOI under the concept DOI above
-# (v1.0.0 = 10.5281/zenodo.20630338; v1.0.1 = 10.5281/zenodo.20648631;
-#  v1.0.2 = 10.5281/zenodo.20677599).
+  - type: doi
+    value: "10.5281/zenodo.21040703"
+    description: "v1.0.0 archived release"
 keywords:
   - ray tracing
   - urban digital twin
