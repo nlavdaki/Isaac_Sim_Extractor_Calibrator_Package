@@ -1,4 +1,4 @@
-# solar-twin — USD Extractor & Calibrator
+# solar-twin - USD Extractor & Calibrator
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21040702.svg)](https://doi.org/10.5281/zenodo.21040702)
 
