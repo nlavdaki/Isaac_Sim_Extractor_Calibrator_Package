@@ -1,6 +1,6 @@
 # solar-twin — USD Extractor & Calibrator
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20630337.svg)](https://doi.org/10.5281/zenodo.20630337)
+[![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/)
 
 Per-location **lux → GHI** calibration from an NVIDIA Omniverse / Isaac Sim urban
 digital twin, calibrated against **CAMS** clear-sky GHI. Produces a versioned
